@@ -1,0 +1,33 @@
+_repo: The-Fairy-Land-of-Science_5726
+creator:
+  author:
+    agent_name: Buckley, Arabella B. (Arabella Burton)
+    alias: Fisher, Arabella Burton Buckley
+    birthdate: 1840
+    deathdate: 1929
+    gutenberg_agent_id: '1854'
+    url: http://www.gutenberg.org/2009/agents/1854
+description: Originally delivered to an audience of children at St. John's Wood in
+  spring 1878 and rewritten from short notes for book publication, these ten lectures
+  are designed to promote young people's enjoyment of and interest in science.
+gutenberg_issued: '2004-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5726'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Natural history -- Juvenile literature'
+- !lcsh 'Physical sciences -- Juvenile literature'
+- !lcsh 'Science -- History -- Juvenile literature'
+- !lcc 'Q'
+- !lcsh 'Science -- Juvenile literature'
+tableOfContents: 'The fairy-land of science: how to enter it; how to use it; and how
+  to enjoy it -- Sunbeams, and the work they do -- The aerial ocean in which we live
+  -- A drop of water on its travels -- The two great sculptors: water and ice -- The
+  voices of nature, and how we hear them -- The life of a primrose -- The history
+  of a piece of coal -- Bees in the hive -- Bees and flowers.'
+title: The Fairy-Land of Science
+url: http://www.gutenberg.org/ebooks/5726
