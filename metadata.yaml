@@ -1,5 +1,8 @@
 _repo: The-Fairy-Land-of-Science_5726
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Buckley, Arabella B. (Arabella Burton)
@@ -11,6 +14,8 @@ creator:
 description: Originally delivered to an audience of children at St. John's Wood in
   spring 1878 and rewritten from short notes for book publication, these ten lectures
   are designed to promote young people's enjoyment of and interest in science.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/5726#The-Fairy-Land-of-Science
 gutenberg_issued: '2004-05-01'
 gutenberg_type: Text
 identifiers:
