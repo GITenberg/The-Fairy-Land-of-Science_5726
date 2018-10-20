@@ -1,5 +1,5 @@
 _repo: The-Fairy-Land-of-Science_5726
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -30,6 +30,7 @@ subjects:
 - !lcsh 'Science -- History -- Juvenile literature'
 - !lcc 'Q'
 - !lcsh 'Science -- Juvenile literature'
+- GITenberg
 tableOfContents: 'The fairy-land of science: how to enter it; how to use it; and how
   to enjoy it -- Sunbeams, and the work they do -- The aerial ocean in which we live
   -- A drop of water on its travels -- The two great sculptors: water and ice -- The
